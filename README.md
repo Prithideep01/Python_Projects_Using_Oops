@@ -1,2 +1,2 @@
 # Python_Projects
-Python projects using concepts of Object Oriented Programming 
+Projects using concepts of Object Oriented Programming 
